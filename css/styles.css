@@ -2,3 +2,11 @@
 body {
     background: rgba(0, 240, 194, 0.71);
 }
+h1 {
+  color: #7cb0cb;
+  letter-spacing: 1.5px;
+}
+
+.word7 {
+  color: slategray;
+}
